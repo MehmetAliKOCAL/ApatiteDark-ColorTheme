@@ -1,0 +1,21 @@
+{
+  "name": "Apatite-Dark",
+  "displayName": "Apatite Dark",
+  "description": "A turquoise heavy dark color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Apatite Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Apatite Dark-color-theme.json"
+      }
+    ]
+  }
+}
