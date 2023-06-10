@@ -9,3 +9,11 @@ All notable changes to the "Apatite-Dark" color theme extension will be document
 ## [0.4.3]
 
 - Added an icon for the extension.
+
+## [0.4.4]
+
+- Changed the active tab foreground color to faded turquoise.
+- Added bright turquoise border top to active tab.
+- Changed modified git files' foreground color to bright turquoise.
+- Changed editor inactive indent guide line color to deep purple.
+- Changed editor active indent guide line color to bright turquoise.
