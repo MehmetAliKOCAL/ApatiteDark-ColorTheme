@@ -2,8 +2,9 @@
   "name": "Apatite-Dark",
   "displayName": "Apatite Dark",
   "description": "A bright turquoise and deep purple heavy, dark color theme",
-  "version": "0.4.0",
+  "version": "0.4.3",
   "publisher": "GwynDev",
+  "icon": "images/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/MehmetAliKOCAL/ApatiteDark-ColorTheme"
